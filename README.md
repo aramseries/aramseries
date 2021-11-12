@@ -6,7 +6,7 @@
 - 🎓 BSc Actuarial Science; MSc Demography 
 - 👀 I’m interested in Data Science, Demography, Actuarial Mathematics, Time Series, Education, Health, Deftones and craft beer.
 - 👨‍🏫 I love teaching and learnig.
-- 🤝 I’m looking to collaborate on Data Science Projects and undergraduate education.
+- 🤝 I’m looking forward to collaborating on Data Science Projects and Education.
 - 📫 You can reach me:
 
  <a href="https://www.linkedin.com/in/aramramos/"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="100"/>
